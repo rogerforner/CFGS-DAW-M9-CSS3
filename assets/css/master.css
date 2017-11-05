@@ -10,6 +10,7 @@
 * # CSS3 Shadows
 * # CSS3 Text
 * # CSS3 2D Transforms
+* # CSS3 3D Transforms
 * # CSS3 Transitions
 * # CSS3 Images
 * # CSS3 object-fit
@@ -58,6 +59,10 @@
 /* # CSS3 2D Transforms
 *******************************************************************************/
 @import url('css3-2d-transforms.css');
+
+/* # CSS3 3D Transforms
+*******************************************************************************/
+@import url('css3-3d-transforms.css');
 
 /* # CSS3 Transitions
 *******************************************************************************/

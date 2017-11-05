@@ -1,0 +1,4 @@
+.d3:hover {
+  -webkit-transform: rotateZ(5deg); /* Safari */
+  transform: rotateZ(5deg); /* Standard syntax */
+}
