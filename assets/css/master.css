@@ -12,6 +12,7 @@
 * # CSS3 2D Transforms
 * # CSS3 3D Transforms
 * # CSS3 Transitions
+* # CSS3 Animations
 * # CSS3 Images
 * # CSS3 object-fit
 * # CSS3 Buttons
@@ -67,6 +68,10 @@
 /* # CSS3 Transitions
 *******************************************************************************/
 @import url('css3-transitions.css');
+
+/* # CSS3 Animations
+*******************************************************************************/
+@import url('css3-animations.css');
 
 /* # CSS3 Images
 *******************************************************************************/
