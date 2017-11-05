@@ -1,0 +1,37 @@
+.flex-container {
+  /* Declaración del contenedor flexible con la propiedad "display".
+  Nos interesa que el elemento sea tratado como un bloque (flex) */
+  display: -webkit-flex;
+  display: flex;
+  /* Utilizamos la propiedad abreviada de flex-direction y flex-wrap,
+  flex-flow. Definimos flex-direction en row (izquierda a derecha y
+  arriba a abajo). Definimos el flex-wrap en wrap (los elementos se
+  ajustarán si no tienen suficiente espacio). */
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+
+/* Todos los elementos del contenedor flex-container ocuparán 1/4 parte
+del espacio libre (flex: 1) y, al mismo tiempo, tendrán un ancho del
+100% */
+.flex-container > * {
+  flex: 1 100%;
+}
+
+/* Utilizamos la propiedad "order" para los ítems de dentro del
+contenedor .flex-container (header, nav, main, footer).
+Con esta propiedad definimos un orden para cada uno los elementos. */
+header {
+  order: 2;
+}
+nav {
+  /* Será el primero, por encima del header aunque la etiqueta <header>
+  esté encima de la de <nav> */
+  order: 1;
+}
+main {
+  order: 3;
+}
+footer {
+  order: 4;
+}
