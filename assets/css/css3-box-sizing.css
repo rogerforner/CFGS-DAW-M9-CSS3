@@ -1,0 +1,8 @@
+/* Aplicamos la propiedad box-sizing a todos los elementos.
+Con ello evitamos tener que restar el relleno (padding) y
+el ancho de los bordes para poder definir mejor el tamaño
+de una caja <div> o similar. Es más cómodo trabajar así,
+más rápido y limpio. */
+* {
+    box-sizing: border-box;
+}
