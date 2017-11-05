@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Eczar', serif;
 }
 
-p {
+p, a {
   font-family: 'Work Sans', sans-serif;
 }
 
@@ -78,6 +78,6 @@ main {
 *******************************************************************************/
 
 footer {
-  color: #212529;
-  padding: 10px;
+  color: #ffffff;
+  text-align: center;
 }
