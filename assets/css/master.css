@@ -3,6 +3,7 @@
 * # CSS3 Fonts
 * # Elements
 * # CSS3 Backgrounds
+* # CSS3 Colors
 * # CSS3 Transitions
 * # CSS3 Box Sizing
 * # CSS3 Flexbox
@@ -16,11 +17,15 @@
 *******************************************************************************/
 @import url('elements.css');
 
-/* CSS3 Backgrounds
+/* # CSS3 Backgrounds
 *******************************************************************************/
 @import url('css3-backgrounds.css');
 
-/* CSS3 Transitions
+/* # CSS3 Colors
+*******************************************************************************/
+@import url('css3-colors.css');
+
+/* # CSS3 Transitions
 *******************************************************************************/
 @import url('css3-transitions.css');
 
