@@ -1,0 +1,34 @@
+div#contact {
+  padding-top: 50px;
+  position: relative;
+}
+
+div#contact img {
+  width: 100%;
+  height: auto;
+}
+
+div#contact div.info {
+  background-color: rgba(52, 58, 64, 0.68);
+  color: #ffffff;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20%;
+}
+
+div#contact div.info a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+div#contact div.info ul {
+  list-style-type: none;
+}
+
+div#contact div.info ul li {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}

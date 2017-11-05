@@ -10,6 +10,7 @@
 * # CSS3 Shadows
 * # CSS3 Text
 * # CSS3 Transitions
+* # CSS3 Images
 * # CSS3 object-fit
 * # CSS3 Box Sizing
 * # CSS3 Flexbox
@@ -54,6 +55,10 @@
 /* # CSS3 Transitions
 *******************************************************************************/
 @import url('css3-transitions.css');
+
+/* # CSS3 Images
+*******************************************************************************/
+@import url('css3-images.css');
 
 /* # CSS3 object-fit
 *******************************************************************************/
