@@ -20,6 +20,13 @@ body {
   background-color: #f7f7f9;
 }
 
+.container {
+  position: relative;
+	margin: auto;
+	max-width: 990px;
+	height: auto;
+}
+
 /* ## Fonts
 *******************************************************************************/
 
