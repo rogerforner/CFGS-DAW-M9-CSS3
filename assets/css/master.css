@@ -9,10 +9,12 @@
 * # CSS3 Gradients
 * # CSS3 Shadows
 * # CSS3 Text
+* # CSS3 2D Transforms
 * # CSS3 Transitions
 * # CSS3 Images
 * # CSS3 object-fit
 * # CSS3 Buttons
+* # CSS3 Pagination
 * # CSS3 Box Sizing
 * # CSS3 Flexbox
 *******************************************************************************/
@@ -52,6 +54,10 @@
 /* # CSS3 Text
 *******************************************************************************/
 @import url('css3-text.css');
+
+/* # CSS3 2D Transforms
+*******************************************************************************/
+@import url('css3-2d-transforms.css');
 
 /* # CSS3 Transitions
 *******************************************************************************/

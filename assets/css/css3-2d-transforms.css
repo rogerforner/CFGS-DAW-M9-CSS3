@@ -1,0 +1,5 @@
+footer div.copy p {
+  -ms-transform: rotate(12deg); /* IE 9 */
+  -webkit-transform: rotate(12deg); /* Safari */
+  transform: rotate(12deg); /* Standard syntax */
+}
