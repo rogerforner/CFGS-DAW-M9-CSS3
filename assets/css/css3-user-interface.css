@@ -1,0 +1,5 @@
+div.exp {
+  outline: 1px dotted #343A40;
+  outline-offset: 15px;
+  padding: 6px;
+}
