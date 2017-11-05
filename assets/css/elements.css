@@ -10,6 +10,7 @@
 
 /* # General
 *******************************************************************************/
+
 html, body {
   padding: 0;
   margin: 0;
@@ -21,6 +22,7 @@ body {
 
 /* ## Fonts
 *******************************************************************************/
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Eczar', serif;
 }
@@ -31,6 +33,7 @@ p {
 
 /* Header
 *******************************************************************************/
+
 header {
   height: 82vh;
   padding: 10px;
@@ -38,14 +41,34 @@ header {
 
 /* # Nav
 *******************************************************************************/
+
 nav {
   background-color: #343A40;
-  color: #ffffff;
   padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 7px 7px;
+  text-decoration: none;
 }
 
 /* # Main
 *******************************************************************************/
+
 main {
   color: #212529;
   padding: 10px;
@@ -53,6 +76,7 @@ main {
 
 /* # Footer
 *******************************************************************************/
+
 footer {
   color: #212529;
   padding: 10px;

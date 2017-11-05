@@ -1,0 +1,14 @@
+/* Añadimos una transición al color del enlace del navegador
+cuando el cursor esté encima (hover) */
+
+/* El elemento, antes del cambio, tiene que tener la propiedad
+"transition". */
+nav ul li a {
+  -webkit-transition: color 2s;
+  transition: color 2s;
+}
+
+/* El cambio deseado cuando el cursor esté encima. */
+nav ul li a:hover {
+  color: #737373;
+}
