@@ -1,0 +1,7 @@
+/* Importamos las siguientes fuentes de Google Fonts:
+- Eczar
+- Work Sans
+La primera la utilizaremos para encabezados y la segunda para el texto.
+Hemos buscado combinaciones de tipos de fuentes de Google:
+- http://fonts.greatsimple.io/eczar-worksans/ */
+@import url('https://fonts.googleapis.com/css?family=Eczar|Work+Sans');
