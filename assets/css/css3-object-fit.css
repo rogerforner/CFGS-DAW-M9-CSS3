@@ -6,11 +6,16 @@
   margin: 0.5%;
 }
 
-div.work {
+div.items {
+  padding-bottom: 25px;
+  height: auto;
+}
+
+div.items div.work {
   width:100%;
   height:500px;
 }
-div.workw {
+div.items div.workw {
   width:100%;
   height:250px;
 }

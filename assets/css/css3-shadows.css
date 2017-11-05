@@ -2,6 +2,5 @@ div.pportfolio {
   background: url(https://source.unsplash.com/v8vz-Roj8zo) no-repeat center fixed;
   background-size: cover;
   height: 250px;
-  margin-top: 32px;
   box-shadow: inset 0 20px 16px -14px rgba(0, 0, 0, 0.5), inset 0 -20px 16px -14px rgba(0, 0, 0, 0.5);
 }
