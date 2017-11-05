@@ -3,6 +3,7 @@
 * # CSS3 Fonts
 * # Elements
 * # CSS3 Rounded Corners
+* # CSS3 Border Images
 * # CSS3 Backgrounds
 * # CSS3 Colors
 * # CSS3 Gradients
@@ -25,6 +26,10 @@
 /* # CSS3 Rounded Corners
 *******************************************************************************/
 @import url('css3-rounded-corners.css');
+
+/* # CSS3 Border Images
+*******************************************************************************/
+@import url('css3-border-images.css');
 
 /* # CSS3 Backgrounds
 *******************************************************************************/
