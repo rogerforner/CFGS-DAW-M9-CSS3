@@ -5,6 +5,7 @@
 * # CSS3 Backgrounds
 * # CSS3 Colors
 * # CSS3 Gradients
+* # CSS3 Text
 * # CSS3 Transitions
 * # CSS3 Box Sizing
 * # CSS3 Flexbox
@@ -29,6 +30,10 @@
 /* # CSS3 Gradients
 *******************************************************************************/
 @import url('css3-gradients.css');
+
+/* # CSS3 Text
+*******************************************************************************/
+@import url('css3-text.css');
 
 /* # CSS3 Transitions
 *******************************************************************************/
