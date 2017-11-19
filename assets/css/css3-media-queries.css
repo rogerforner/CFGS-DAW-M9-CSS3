@@ -57,3 +57,18 @@ h6 {
     font-size: 17px !important;
   }
 }
+
+/* Imagen Cabecera en HORIZONTAL */
+@media only screen and (orientation: landscape) {
+  header {
+    background: url(https://source.unsplash.com/bBKVrH0vzB4) no-repeat center fixed;
+    background-size: cover;
+  }
+}
+
+/* Color fondo Container en VERTICAL */
+@media only screen and (orientation: portrait) {
+  .container {
+    background-color: #ceced6;
+  }
+}
